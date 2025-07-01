@@ -1,7 +1,9 @@
 // This module contains tools for you to create a feed-forward neural network easily.
 
+// give it a name
 module neuralnetwork;
 
+// import the tools we need
 import std.math : abs;
 
 // this variable will contain the learning rate of the network
