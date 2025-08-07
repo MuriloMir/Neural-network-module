@@ -1,4 +1,4 @@
-// This module contains tools for you to create a feed-forward neural network easily.
+// This module contains tools for you to create a feed-forward neural network easily. 
 
 // give it a name
 module neuralnetwork;
